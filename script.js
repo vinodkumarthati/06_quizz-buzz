@@ -38,7 +38,47 @@ const quizData = [
         c:"819",
         d:"356",
         correct:"356",
-    }
+    },  {
+        question:"Devesh can cover a certain distance in 1 hour 24 minutes by covering two-third of the distance at 6 km/hour and the rest at 7 km/hr. Calculate total distance.",
+        a:"8km",
+        b:"9km",
+        c:"6km",
+        d:"7.5km",
+        correct:"6km",
+   
+    },    {
+        question:"Find the H.C.F, if the numbers are in the ratio of 4 : 5 : 6 and their L.C.M. is 2400.",
+        a:"35",
+        b:"20",
+        c:"40",
+        d:"60",
+        correct:"20",
+   
+    },    {
+        question:"The rate at which a sum becomes four times of itself in 25 years at S.I.,will be:",
+        a:"30%",
+        b:"25%",
+        c:"12%",
+        d:"29%",
+        correct:"12%",
+   
+    },    {
+        question:"In a certain code FIRE is coded as DGPC. What will be the last letter of the coded word for SHOT.",
+        a:"Q",
+        b:"R",
+        c:"S",
+        d:"T",
+        correct:"R",
+   
+    },    {
+        question:"If TOUR is written in a certain code as 1234, CLEAR as 56784 and SPARE as 90847, what will be the 5thdigit for SCULPTURE in the same code ?",
+        a:"3",
+        b:"4",
+        c:"6",
+        d:"0",
+        correct:"6",
+    
+    },
 ];
 
 const quiz= document.getElementById('quiz')
